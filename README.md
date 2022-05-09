@@ -10,8 +10,13 @@ I am a full-stack web developer.
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/7775650/cem-karakurt)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ickarakurt)
 
-
 <br>
+
+## My Latest Blog Posts
+
+- [15 React Productivity VSCode Extensions (Pack)](https://medium.com/@ickarakurt/15-react-productivity-vscode-extensions-pack-17dae0d89136)
+- [Typescript Quick Introduction](https://medium.com/@ickarakurt/typescript-quick-introduction-9905bc700c83)
+
 <br>
 
 ## My tech stack
