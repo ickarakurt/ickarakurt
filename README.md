@@ -17,7 +17,6 @@ I am a full-stack web developer.
 - [15 React Productivity VSCode Extensions (Pack)](https://medium.com/@ickarakurt/15-react-productivity-vscode-extensions-pack-17dae0d89136)
 - [Typescript Quick Introduction](https://medium.com/@ickarakurt/typescript-quick-introduction-9905bc700c83)
 
-<br>
 
 ## My tech stack
 
