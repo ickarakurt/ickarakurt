@@ -14,6 +14,7 @@ I am a full-stack web developer.
 
 ## My Latest Blog Posts
 
+- [SonarQube Docker Mac Installation in 5 Minutes](https://medium.com/@ickarakurt/sonarqube-mac-installation-in-5-minutes-f96ec503680d)
 - [15 React Productivity VSCode Extensions (Pack)](https://medium.com/@ickarakurt/15-react-productivity-vscode-extensions-pack-17dae0d89136)
 - [Typescript Quick Introduction](https://medium.com/@ickarakurt/typescript-quick-introduction-9905bc700c83)
 
