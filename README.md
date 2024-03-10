@@ -12,7 +12,7 @@ I am a full-stack web developer.
 <br>
 
 ## My Latest Blog Posts
-
+- [Messaging Services in AWS: SNS, SQS, Kinesis, and EventBridge](https://cemkarakurt.com/blog/aws-messaging-sqs-sns-kinesis-eventbridge?utm_source=github_readme)
 - [End-to-End Type Safety: Development and Runtime Validation with TypeScript and Zod](https://www.cemkarakurt.com/blog/end-to-end-type-safety-development-and-runtime-validation-with-typescript-and-zod?utm_source=github_readme)
 - [Refactor Ruby On Rails Application In 5 Steps](https://www.cemkarakurt.com/blog/refactoring-ruby-on-rails-application-in-5-steps?utm_source=github_readme)
 - [SonarQube Docker Mac Installation in 5 Minutes](https://www.cemkarakurt.com/blog/sonarqube-mac-installation-in-5-minutes?utm_source=github_readme)
